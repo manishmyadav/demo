@@ -1,5 +1,5 @@
 This is new demo file.
-This is created to study the clone operation.
-This line was added to demonstrate amendment to file.
+This is a modified line.
+This line was written for Update demo. 
 
-This is the latest line.
+This is the latest line written at 3:20.
