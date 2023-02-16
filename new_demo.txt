@@ -1,0 +1,5 @@
+This is new demo file.
+This is created to study the clone operation.
+This line was added to demonstrate amendment to file.
+
+This is the latest line.
